@@ -2,7 +2,7 @@
 
 
 
-🔭 ncnipc、xdu、CUMT、渊龙SEC，曾就职长亭科技，渊龙Sec核心成员,团队交流群877317946，我的博客
+🔭 ncnipc、xdu、CUMT、渊龙SEC，曾就职长亭科技，渊龙Sec核心成员，团队交流群877317946，我的博客
 
 https://blog.csdn.net/xulei1132562
 
