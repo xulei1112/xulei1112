@@ -18,4 +18,4 @@ https://www.aabyss.cn/
 
 https://dh.aabyss.cn/
 
-[![profile](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=3)]
+[![profile](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=3)](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=3)
