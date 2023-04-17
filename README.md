@@ -20,4 +20,4 @@ https://dh.aabyss.cn/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xulei1112)](https://github.com/anuraghazra/github-readme-stats)
 
-[![profile](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=3)](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=3)
+[![profile](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=xulei1112&theme=algolia&column=8)
